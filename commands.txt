@@ -1,0 +1,7 @@
+On terminal
+
+
+export access_token=$(gcloud auth application-default print-access-token)
+export project_id=elderlyvoiceassistant
+export base_url=https://generativelanguage.googleapis.com
+
